@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "涙ディライト",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-26T02:49:08.964852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙ディライト",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_涙ディライト_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙ディライト",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_涙ディライト_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙ディライト",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_涙ディライト_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "涙ディライト",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/04_涙ディライト_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "涙ディライト - Namida Delight",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_涙ディライト_-_Namida_Delight_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "涙ディライト",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/06_涙ディライト_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙ディライト",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_涙ディライト_サカナクション.txt"
+    }
+  ]
+}
